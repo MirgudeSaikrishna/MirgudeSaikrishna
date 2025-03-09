@@ -5,6 +5,6 @@
 
 💬 Ask me about MERN stack, Machine Learning, DSA
 
-📫 How to reach me: https://linktr.ee/SaiKrishna580
+📫 How to reach me: saimirgude@gmail.com
 
 ✨ Skills: MERN Stack, Git, SQL, OOPs, Postman, Kaggle, Jupyter
