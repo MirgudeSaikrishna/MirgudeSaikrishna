@@ -12,5 +12,4 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirgudeSaikrishna)
 
-## Languages Used
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirgudeSaikrishna" alt="Languages Used" width="600" height="300" margin="0">
+<img src="https://streak-stats.demolab.com/?user=MirgudeSaikrishna&theme=radical" alt="Languages Used" width="500" height="300" margin="0">
