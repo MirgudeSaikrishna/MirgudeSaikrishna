@@ -12,4 +12,4 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirgudeSaikrishna)
 
-![Contribution Streak](https://streak-stats.demolab.com/?user=MirgudeSaikrishna&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=MirgudeSaikrishna&theme=tokyonight&hide_border=false)
