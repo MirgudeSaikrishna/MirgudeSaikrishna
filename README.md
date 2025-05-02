@@ -7,7 +7,7 @@
 
 📫 How to reach me: saimirgude@gmail.com
 
-✨ Skills: MERN Stack, Git, SQL, OOPs, Postman, Kaggle, Jupyter, Networking
+✨ Skills: MERN Stack, Git, SQL, OOPs, Postman, Kaggle, Networking
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirgudeSaikrishna)
