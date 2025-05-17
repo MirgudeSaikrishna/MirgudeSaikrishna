@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🔭 I’m currently working on WEB DEVELOPMENT using AI 
+🔭 I’m currently working on open source
 
 💬 Ask me about MERN stack, Machine Learning, DSA
 
